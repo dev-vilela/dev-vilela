@@ -1,4 +1,3 @@
-
 ### Olá! Eu sou o Paulo Vilela 😉
 
 Tenho 19 anos, sou estudante de Análise e Desenvolvimento de Sistemas, especializando na área de Front end. 
@@ -11,6 +10,9 @@ Tenho 19 anos, sou estudante de Análise e Desenvolvimento de Sistemas, especial
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/paulo.vilela.543)
 
 ![Vilela GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-vilela&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vilela)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
