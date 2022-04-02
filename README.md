@@ -25,7 +25,7 @@ Tenho 19 anos, sou estudante de Análise e Desenvolvimento de Sistemas, especial
 <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div><br/>
 
-## Conheça alguns projetos feitos por mim,  no link abaixo:
+## Clicando nos links abaixo você será redirecionado para os projetos feitos por mim:
 
 <a href="https://dev-vilela.github.io/projeto-android/" >-Projeto Android</a><br/>
 <a href="https://dev-vilela.github.io/Planta-Carnivora/" >-Projeto Plantas Carnívoras</a><br/>
