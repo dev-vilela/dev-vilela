@@ -30,8 +30,8 @@ Tenho 19 anos, sou estudante de Análise e Desenvolvimento de Sistemas, especial
 
 ## Clicando nos links abaixo você será redirecionado para os projetos feitos por mim:
 
-<a href="https://dev-vilela.github.io/projeto-android/" >-Projeto Android</a><br/>
-<a href="https://dev-vilela.github.io/Planta-Carnivora/" >-Projeto Plantas Carnívoras</a><br/>
-<a href="https://dev-vilela.github.io/pagina-de-login/login.html" >-Página de Login</a><br/>
-<a href="https://dev-vilela.github.io/calculadora/" >-Calculadora</a>
+<a href="https://dev-vilela.github.io/projeto-android/" target="_blank" >-Projeto Android</a><br/>
+<a href="https://dev-vilela.github.io/Planta-Carnivora/" target="_blank">-Projeto Plantas Carnívoras</a><br/>
+<a href="https://dev-vilela.github.io/pagina-de-login/login.html" target="_blank">-Página de Login</a><br/>
+<a href="https://dev-vilela.github.io/calculadora/" target="_blank">-Calculadora</a>
 
