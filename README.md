@@ -34,7 +34,8 @@ Tenho 19 anos, sou estudante de Análise e Desenvolvimento de Sistemas, especial
 <a href="https://dev-vilela.github.io/Planta-Carnivora/" target="_blank">-Projeto Plantas Carnívoras</a><br/>
 <a href="https://dev-vilela.github.io/pagina-de-login/login.html" target="_blank">-Página de Login</a><br/>
 <a href="https://dev-vilela.github.io/calculadora/" target="_blank">-Calculadora</a><br/>
-<a href="https://dev-vilela.github.io/Projeto_Vingadores/" target="_blank">-Projeto Vingadores</a>
+<a href="https://dev-vilela.github.io/Projeto_Vingadores/" target="_blank">-Projeto Vingadores</a><br/>
+<a href="https://dev-vilela.github.io/Fashion/" target="_blank">-Projeto Fashion</a>
   
   
   
