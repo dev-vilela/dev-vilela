@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Paulo Vilela 😉
 
-Tenho 19 anos, sou estudante de Análise e Desenvolvimento de Sistemas, especializando na área de Front end. 
+Tenho  20 anos, sou estudante de Análise e Desenvolvimento de Sistemas, especializando na área de Front end. 
 
 
 
