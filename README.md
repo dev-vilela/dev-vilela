@@ -36,7 +36,7 @@ Tenho  20 anos, sou estudante de Análise e Desenvolvimento de Sistemas, especia
 <a href="https://dev-vilela.github.io/calculadora/" target="_blank">-Calculadora</a><br/>
 <a href="https://dev-vilela.github.io/Projeto_Vingadores/" target="_blank">-Projeto Vingadores</a><br/>
 <a href="https://dev-vilela.github.io/Fashion/" target="_blank">-Projeto Fashion</a> <br/>
-<a href="<a href="https://dev-vilela.github.io/Fashion/" target="_blank">-Projeto Range Hotels</a>
+<a href="<a href="https://dev-vilela.github.io/Range-Hotels/" target="_blank">-Projeto Range Hotels</a>
   
   
   
