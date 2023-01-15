@@ -9,18 +9,10 @@ Tenho  20 anos, sou estudante de Análise e Desenvolvimento de Sistemas, especia
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/settings/profile)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/paulo.vilela.543)
 
-<div width="100%" align="center">
-  <img width="70%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vilela&langs_count=6&theme=omni&layout=compact" />
-  <img width="70%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vilela&langs_count=6&theme=shades-of-purple&layout=compact" />
+<div  align="center">
+  <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vilela&langs_count=6&theme=omni&layout=compact" />
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vilela&langs_count=6&theme=shades-of-purple&layout=compact" />
 </div>
-
-<div align="center">
-  <a href="https://github.com/dev-vilela">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-vilela&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vilela&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-
 
 
 ## Tecnologias que estou apredendo!!
