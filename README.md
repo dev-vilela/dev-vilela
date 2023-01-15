@@ -12,7 +12,6 @@ Tenho  20 anos, sou estudante de Análise e Desenvolvimento de Sistemas, especia
 <div  align="center">
   <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vilela&langs_count=6&theme=omni&layout=compact" />
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vilela&langs_count=6&theme=shades-of-purple&layout=compact" />
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?dev-vilela=anuraghazra&show_icons=true&theme=radical)
 </div>
 
 
