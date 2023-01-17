@@ -7,7 +7,7 @@ Tenho  20 anos, sou estudante de Análise e Desenvolvimento de Sistemas, especia
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC6tbdya3tYCKAWYHDg3mumA)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulo.__.vilela/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-vilela-18126922b/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/paulo.vilela.543)
+
 
 <div  align="center">
   <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vilela&langs_count=6&theme=omni&layout=compact" />
