@@ -11,7 +11,7 @@ Tenho  20 anos, sou estudante de Análise e Desenvolvimento de Sistemas, especia
 
 <div  align="center">
   <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vilela&langs_count=6&theme=omni&layout=compact" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-vilela&show_icons=true&theme=dracula=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-vilela&show_icons=true&theme=omni&layout=true&count_private=true"/>
 </div>
 
 
