@@ -40,7 +40,6 @@ Tenho  21 anos, sou estudante de Análise e Desenvolvimento de Sistemas, especia
   
   
  
-  ![Snake animation](https://github.com/dev-vilela/dev-vilela/blob/output/github-contribution-grid-snake.svg)
- 
 
+ ![snake gif](https://github.com/dev-vilela/dev-vilela/blob/output/github-contribution-grid-snake.svg)
 
