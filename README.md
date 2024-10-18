@@ -16,13 +16,13 @@ Tenho  22 anos, sou estudante de Análise e Desenvolvimento de Sistemas, especia
 
 ## Tecnologias que estou apredendo!!
 
-<div style="display:inline_block;"><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="sass" src="https://img.shields.io/badge/SASS-ff00bf?style=for-the-badge&logo=sass&logoColor=white"/>
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+ <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,jquery,css,html,tailwind,sass,nodejs,figma,notion,github,bootstrap,discord,linkedin,instagram" />
+</a>
+  <br />
 
-</div><br/>
+  </div> <br/>
 
 
 ## Clicando nos links abaixo você será redirecionado para os projetos feitos por mim:
@@ -38,23 +38,9 @@ Tenho  22 anos, sou estudante de Análise e Desenvolvimento de Sistemas, especia
 <a href="https://dev-vilela.github.io/Stranger-Things/" target="_blank">-Stranger Things</a>   
   
   
- 
-
- ![snake gif](https://github.com/dev-vilela/dev-vilela/blob/output/github-contribution-grid-snake.svg)
-
 
   
 
-
-
- 
-  <div align="center" >
-<a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,jquery,css,html,tailwind,sass,nodejs,figma,notion,github,bootstrap,discord,linkedin,instagram" />
-</a>
-  <br />
-
-  </div>
 
  
 ##
