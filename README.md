@@ -18,7 +18,7 @@ Tenho  22 anos, sou formado em Análise e Desenvolvimento de Sistemas, especiali
 
  <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,jquery,css,html,tailwind,sass,react,figma,notion,github,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,java,jquery,css,html,tailwind,sass,react,figma,notion,github,bootstrap" />
 </a>
   <br />
 
