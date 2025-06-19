@@ -9,7 +9,7 @@ Tenho  22 anos, sou formado em Análise e Desenvolvimento de Sistemas, especiali
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-vilela-18126922b/)
 
 
- [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-vilela&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [!GitHub Commits(http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-vilela&theme=dracula&utcOffset=-3)]
+ [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-vilela&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [[!GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-vilela&theme=dracula&utcOffset=-3)]
  [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-vilela&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
  
 
