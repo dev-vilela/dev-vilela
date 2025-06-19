@@ -10,6 +10,7 @@ Tenho  22 anos, sou formado em Análise e Desenvolvimento de Sistemas, especiali
 
 
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-vilela&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-vilela&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={dev-vilela}&theme={dracula}&exclude={exclude}
  | ----------- | ----------- |
 
 
