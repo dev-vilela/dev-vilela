@@ -27,7 +27,7 @@ Tenho  22 anos, sou formado em Análise e Desenvolvimento de Sistemas, especiali
 
 ## Clicando no meu portfolio  abaixo você será redirecionado para os projetos feitos por mim:
 
-<a href="https://dev-vilela.github.io/paulo_vilela2.0/" target="_blank" >Portfolio</a><br/>
+<a href="https://paulovilela.netlify.app/" target="_blank" >Portfolio</a><br/>
  
   
   
