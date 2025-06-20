@@ -1,6 +1,6 @@
 ###
 
-<h1>👋 Olá, eu sou o Paulo Vilela! </h1>h1>
+<h1>👋 Olá, eu sou o Paulo Vilela! </h1>
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas e atualmente graduando em Engenharia de Software.
 
@@ -48,10 +48,6 @@
  
   
   
-
-  
-
-
  
 ##
    <div align="center" >
