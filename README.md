@@ -34,7 +34,7 @@ Front-End
  Back-End
  <div >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=java,nodejs,postman,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,postman,mysql,firebase" />
 </a>
   <br />
 
