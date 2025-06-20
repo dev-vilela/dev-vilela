@@ -22,8 +22,8 @@
 
 🚀 Minhas Skills
 
-## ---------------------Front-End---------------------
- <div align="center" >
+Front-End
+ <div  >
 <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=git,vscode,javascript,jquery,css,html,tailwind,sass,react,figma,notion,github,bootstrap" />
 </a>
@@ -31,10 +31,10 @@
 
   </div> <br/>
 
-  ## ---------------------Back-End---------------------
- <div align="center" >
+ Back-End
+ <div >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=java,nodejs,postman,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,postman,mysql, firebase" />
 </a>
   <br />
 
