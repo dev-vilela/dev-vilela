@@ -1,6 +1,11 @@
-### Olá! Eu sou o Paulo Vilela 😉
+###
 
-Tenho  22 anos, sou formado em Análise e Desenvolvimento de Sistemas, especializando na área de Front end. 
+👋 Olá, eu sou o Paulo Vilela!
+
+🎓 Formado em Análise e Desenvolvimento de Sistemas e atualmente graduando em Engenharia de Software.
+
+💻 Tenho experiência com Desenvolvimento Front-End e atualmente estou me especializando como Desenvolvedor Full Stack, com foco no ecossistema Java.
+
 
 
 
@@ -15,14 +20,21 @@ Tenho  22 anos, sou formado em Análise e Desenvolvimento de Sistemas, especiali
 
  
 
+🚀 Minhas Skills
 
-
-
-## Tecnologias que estou apredendo!!
-
+## ---------------------Front-End---------------------
  <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,java,jquery,css,html,tailwind,sass,react,figma,notion,github,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,jquery,css,html,tailwind,sass,react,figma,notion,github,bootstrap" />
+</a>
+  <br />
+
+  </div> <br/>
+
+  ## ---------------------Back-End---------------------
+ <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=java,nodejs,postman,mysql" />
 </a>
   <br />
 
