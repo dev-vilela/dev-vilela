@@ -2,9 +2,9 @@
 
 <h1>👋 Olá, eu sou o Paulo Vilela! </h1>
 
-<h3>🎓 Formado em Análise e Desenvolvimento de Sistemas e atualmente graduando em Engenharia de Software. </h3>
+<p>🎓 Formado em Análise e Desenvolvimento de Sistemas e atualmente graduando em Engenharia de Software. </p>
 
-<h3>💻 Tenho experiência com Desenvolvimento Front-End e atualmente estou me especializando como Desenvolvedor Full Stack, com foco no ecossistema Java.</h3>
+<p>💻 Tenho experiência com Desenvolvimento Front-End e atualmente estou me especializando como Desenvolvedor Full Stack, com foco no ecossistema Java.</p>
 
 
 
