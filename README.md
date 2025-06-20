@@ -22,7 +22,7 @@
 
 🚀 Minhas Skills
 
-Front-End
+<h2>Front-End </h2>
  <div  >
 <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=git,vscode,javascript,jquery,css,html,tailwind,sass,react,figma,notion,github,bootstrap" />
@@ -31,7 +31,7 @@ Front-End
 
   </div> <br/>
 
- Back-End
+ <h2>Back-End </h2>
  <div >
 <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,postman,mysql,firebase" />
