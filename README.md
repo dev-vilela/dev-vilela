@@ -52,7 +52,7 @@
 ##
    <div align="center" >
      <img src="https://github-profile-trophy.vercel.app/?username=dev-vilela&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-            
-    <img src=" https://github-profile-trophy.vercel.app/?username=dev-vilela&theme=onedark"/>
+        https://github-profile-trophy.vercel.app/?username=dev-vilela&theme=onedark    
+    
   </div>
 
